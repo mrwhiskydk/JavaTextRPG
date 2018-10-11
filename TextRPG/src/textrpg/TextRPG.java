@@ -17,6 +17,7 @@ public class TextRPG {
     public static void main(String[] args) {
         // TODO code application logic here
         //test by mrwhisky
+        //just another test
     }
-    
+
 }
